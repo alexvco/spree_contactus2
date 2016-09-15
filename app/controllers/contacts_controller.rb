@@ -1,4 +1,4 @@
-class ContactsController < ApplicationController
+class Spree::ContactsController < ApplicationController
 
 
   # GET /contacts/new
